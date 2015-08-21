@@ -1,4 +1,7 @@
 
+Fork of Pacbio's pbcore, old version compatible with nanocorr
+
+
 The pbcore package provides Python APIs for interacting with PacBio
 data files and writing bioinformatics applications.
 
